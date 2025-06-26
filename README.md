@@ -1,4 +1,4 @@
-# XCAL – AI-Powered Calorie Tracker App
+# XCAL – AI-Powered Calorie Tracker App made by Sachin Veldi
 
 **XCAL** is a sleek, mobile-first calorie tracking app built with React Native. It combines barcode scanning, AI image recognition, and USDA nutrition data to help users monitor daily calorie intake and macronutrients in a fast, intuitive way.
 
